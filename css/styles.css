@@ -1,0 +1,22 @@
+body {
+  background: #111;
+}
+
+.mainstuff, h1 {
+  color:thistle;
+}
+
+a {
+  color:thistle;
+}
+a:hover {
+  color:wheat;
+}
+
+a:hover::after {
+  color:white;
+}
+
+p {
+  color:cadetblue;
+}

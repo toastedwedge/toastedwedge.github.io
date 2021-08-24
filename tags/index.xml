@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on I/O Error</title>
+    <link>https://ioerr.dev/tags/</link>
+    <description>Recent content in Tags on I/O Error</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ioerr.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>all your base</title>
+      <link>https://ioerr.dev/tags/all-your-base/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ioerr.dev/tags/all-your-base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>https://ioerr.dev/tags/first-post/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ioerr.dev/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
