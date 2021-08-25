@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ioerr.dev/tags/all-your-base/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ioerr.dev/categories/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/categories/everything/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/tags/stuff/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/tags/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/update-2/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/tags/wip/</loc>
+    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/update/</loc>
+    <lastmod>2021-08-24T21:03:41-05:00</lastmod>
+  </url><url>
+    <loc>https://ioerr.dev/tags/all-your-base/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/tags/first-post/</loc>
@@ -14,13 +35,7 @@
     <loc>https://ioerr.dev/2021-08-23-hello-world/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ioerr.dev/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ioerr.dev/categories/smooth-jazz/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ioerr.dev/tags/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/categories/world/</loc>

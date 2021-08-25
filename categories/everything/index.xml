@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I/O Error</title>
-    <link>https://ioerr.dev/</link>
-    <description>Recent content on I/O Error</description>
+    <title>everything on I/O Error</title>
+    <link>https://ioerr.dev/categories/everything/</link>
+    <description>Recent content in everything on I/O Error</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Aug 2021 21:32:11 -0500</lastBuildDate><atom:link href="https://ioerr.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 21:32:11 -0500</lastBuildDate><atom:link href="https://ioerr.dev/categories/everything/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update 2</title>
       <link>https://ioerr.dev/update-2/</link>
@@ -25,16 +25,6 @@ I have a preference towards no-BS design, but also I&amp;rsquo;m interested in m
       <guid>https://ioerr.dev/update/</guid>
       <description>I don&amp;rsquo;t know what I&amp;rsquo;m doing, but it looks better, I think. I mean, better-ish. Emphasis on the &amp;ldquo;ish&amp;rdquo; here.
 The default font isn&amp;rsquo;t what I want, the colors are all off, CSS is not something I practice daily, so this is all&amp;hellip; well, you know.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://ioerr.dev/2021-08-23-hello-world/</link>
-      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ioerr.dev/2021-08-23-hello-world/</guid>
-      <description>It&amp;rsquo;s finally working! I&amp;rsquo;ve gotten a bit of HTML and Hugo put together. It is not much at all, but it is a start&amp;ndash;that&amp;rsquo;s what counts!
-Otherwise, please pardon the&amp;hellip; well, it&amp;rsquo;s not even dust. It is a cloud of crap circling and funneling.</description>
     </item>
     
   </channel>
