@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ioerr.dev/2021-08-30-testing-phase/</loc>
+    <lastmod>2021-08-29T22:02:49-05:00</lastmod>
+  </url><url>
     <loc>https://ioerr.dev/categories/</loc>
-    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+    <lastmod>2021-08-29T22:02:49-05:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/categories/everything/</loc>
-    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+    <lastmod>2021-08-29T22:02:49-05:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/</loc>
-    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+    <lastmod>2021-08-29T22:02:49-05:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/tags/stuff/</loc>
-    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+    <lastmod>2021-08-29T22:02:49-05:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/tags/</loc>
-    <lastmod>2021-08-24T21:32:11-05:00</lastmod>
+    <lastmod>2021-08-29T22:02:49-05:00</lastmod>
   </url><url>
     <loc>https://ioerr.dev/update-2/</loc>
     <lastmod>2021-08-24T21:32:11-05:00</lastmod>
